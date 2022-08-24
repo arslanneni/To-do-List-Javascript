@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-image: url(to_do.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    font-family: 'Uchen', serif;
+}
+.heading{
+    margin-left: 20px;
+}
+.main {
+    width: 300px;
+    height: 400px;
+   
+}
+input.inp {
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 20px;
+    border: 2px solid black;
+}
+button.btn {
+    width: 30px;
+    height: 20px;
+    background-color: black;
+    color: antiquewhite;
+}
